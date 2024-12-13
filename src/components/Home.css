@@ -1,0 +1,33 @@
+.home {
+    padding: 2rem;
+  }
+  .home {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .sections {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .section {
+    background-color: #6200ea;
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 150px;
+    text-align: center;
+  }
+  

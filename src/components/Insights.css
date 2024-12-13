@@ -1,0 +1,15 @@
+.insights {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .insights h1 {
+    font-size: 2rem;
+    color: #6200ea;
+  }
+  
+  .insights p {
+    font-size: 1rem;
+    color: #333;
+  }
+  
